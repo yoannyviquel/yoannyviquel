@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/yoannyviquel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E5494&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yoann+Yviquel;.NET+%2B+React+full-stack+engineer;Building+Claude+Code+plugins;Marketplace+%26+e-commerce+at+scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E5494&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yoann+Yviquel;.NET+%2F+C%23+backend+engineer;Building+Claude+Code+plugins;Marketplace+%26+e-commerce+at+scale" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,10 +19,10 @@
 
 ```ts
 const yoann = {
-  role: "Full-stack engineer",
+  role: "Backend engineer",
   company: "Cdiscount / Peaksys",
   domain: ["Marketplace", "Offer integration", "Dev tooling"],
-  stack: { backend: ".NET / C#", frontend: "React / TypeScript" },
+  stack: { core: ".NET / C#", also: ["TypeScript", "Kafka", "Kubernetes"] },
   sideQuest: "Crafting Claude Code plugins & a personal marketplace",
   motto: "Ship it, measure it, kill the tokens.",
 };
@@ -57,7 +57,6 @@ My own [marketplace](https://github.com/yoannyviquel/marketplace) — install wi
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
