@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/yoannyviquel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E5494&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yoann+Yviquel;.NET+%2F+C%23+backend+engineer;Building+Claude+Code+plugins;Marketplace+%26+e-commerce+at+scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E5494&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yoann+Yviquel;Software+design+engineer;Building+Claude+Code+plugins;Marketplace+%26+e-commerce+at+scale" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 ```ts
 const yoann = {
-  role: "Backend engineer",
+  role: "Software design engineer",
   company: "Cdiscount / Peaksys",
   domain: ["Marketplace", "Offer integration", "Dev tooling"],
   stack: { core: ".NET / C#", also: ["TypeScript", "Kafka", "Kubernetes"] },
