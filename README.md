@@ -79,11 +79,11 @@ My own [marketplace](https://github.com/yoannyviquel/marketplace) — install wi
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yoannyviquel&hide_border=true&ring=6E5494&fire=6E5494&currStreakLabel=6E5494" alt="streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=yoannyviquel&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yoannyviquel&hide_border=true&color=6E5494&line=6E5494&point=6E5494&area=true&area_color=6E5494" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yoannyviquel&bg_color=00000000&color=6E5494&line=6E5494&point=6E5494&area=true&area_color=6E5494&hide_border=true" alt="activity graph" />
 
 </div>
 
