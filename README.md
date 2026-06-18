@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=yoannyviquel&label=Profile%20views&color=6E5494&style=flat" alt="profile views" />
-<img src="https://img.shields.io/badge/Focus-Marketplace%20%26%20Tooling-6E5494?style=flat" alt="focus" />
+<img src="https://img.shields.io/badge/Focus-Marketplace%20%C2%B7%20Tooling%20%C2%B7%20Clean%20Code-6E5494?style=flat" alt="focus" />
 
 </div>
 
